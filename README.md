@@ -1,4 +1,4 @@
-First! Thanks to "SuperSimpleDev" for creating a awsome JavaScript tutorial - continuing to his HTML-CSS tutorial for beginner that I've already wachted. After following-watching-listening-doing step by step throughout his video I gained many knowledge about JavaScript like:
+First! Thanks to "SuperSimpleDev" for creating an awsome JavaScript tutorial - continuing to his HTML-CSS tutorial for beginner that I've already wachted. After following-watching-listening-doing step by step throughout his video I gained many knowledge about JavaScript like:
 - Combining HTML-CSS-JS together.
 - Making the buttons interactive with the user when click on them.
 - Implementing HTML code through JS.
