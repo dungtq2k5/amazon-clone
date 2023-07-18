@@ -4,4 +4,4 @@ First! Thanks to "SuperSimpleDev" for creating an awesome JavaScript tutorial - 
 - Implementing HTML code through JS.
 - Spawning some logic about objects, DOM with JS.
   
-By following his tutorial at the end I can manage to create this "amazon-clone" project by myselft. Thanks to him again!
+By following his tutorial at the end I can manage to create this "amazon-clone" project by myself. Thanks to him again!
