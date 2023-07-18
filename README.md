@@ -3,4 +3,5 @@ First! Thanks to "SuperSimpleDev" for creating a awsome JavaScript tutorial - co
 - Making the buttons interactive with the user when click on them.
 - Implementing HTML code through JS.
 - Spawning some logic about objects, DOM with JS.
+  
 By following his tutorial at the end I can manage to create this "amazon-clone" project by myselft. Thanks to him again!
